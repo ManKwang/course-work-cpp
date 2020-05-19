@@ -116,6 +116,8 @@ int main(char* arg[])
 	for (int i = 0; i < NARRAY; i++)
 		cout << arr[i] << " ";
 
+    system("pause");
+
 	return 0;
 }
 
